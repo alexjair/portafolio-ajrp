@@ -1,6 +1,6 @@
 ### ✨ Acerda de este Proyecto 
 
-Mi Portafolio realizado en **Framework Laravel 8** + **PHP7** + Bootstrap5 + ** Conección a **MySQL (Base de datos)**, se creo los **Store Procedure** para todo el proyecto.
+Mi Portafolio realizado en **Framework Laravel 8** + **PHP7** + **Bootstrap5** + Conección a **MySQL (Base de datos)**, se creo los **Store Procedure** para todo el proyecto.
 
 - Autor: Alexander Jair Rojas P.
 - Skill: 
