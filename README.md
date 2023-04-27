@@ -1,8 +1,5 @@
 ### 🎁 Acerda de este Proyecto 
 
-Bufete de Servicios para la obtención de información para el departamento de RRHH (Recursos humanos), se realiza consultas de datos del empleado. 
-1. Consulta de AFP y ONP e afiliación. 📌
-2. Consulta de ESSALUD ubicaión del Centro Asistencial. 📌
 - Autor: Alexander Jair Rojas P.
 
 --------------
